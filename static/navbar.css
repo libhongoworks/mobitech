@@ -1,0 +1,11 @@
+div#navbar-wrapper {
+    background-color: white;
+}
+
+div.secondNavLine {
+    background-color: lightgray;
+}
+
+div#mobileNav.collapse.navbar-collapse {
+    justify-content: center;
+}
